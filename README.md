@@ -1,11 +1,5 @@
 <h1 align="center">Hi there, I'm Aditya!👋</h1>
 
-I'm a first year* Computer Science and Mathematics student at LSU! I'm passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**, and also **Web Applications** and **Software Engineering** as a side hobby.
-
-I've experienced working with independent AI/ML research and programming languages such as Python, C++, and Java. I'm currently looking for internship/research opportunities and other ways to get involved with hands-on projects.
-
-<small>*i'm doing the computer science major first, then getting started with the math!</small>
-
 <!-- Language Stack -->
 <div align="center">
   <img src="https://img.shields.io/badge/python-%23F7DF1E?style=for-the-badge&logo=python&logoColor=black">
@@ -13,8 +7,16 @@ I've experienced working with independent AI/ML research and programming languag
   <img src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%23663399?style=for-the-badge&logo=c++"
 </div>
+<br>
 
+<!-- About Me -->
 <p align="center">
+I'm a first year* Computer Science and Mathematics student at LSU! I'm passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**, and also **Web Applications** and **Software Engineering** as a side hobby.
+
+I've experienced working with independent AI/ML research and programming languages such as Python, C++, and Java. I'm currently looking for internship/research opportunities and other ways to get involved with hands-on projects.
+
+<small>*i'm doing the computer science major first, then getting started with the math!</small>
+</p>
 
 <!-- Github Stats -->
 <div align="center">
