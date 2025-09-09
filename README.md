@@ -1,4 +1,4 @@
-#### Hi there, I'm Aditya!👋
+# Hi there, I'm Aditya! 👋
 
 <!-- Language Stack -->
 <div align="center">
@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/c++-%23663399?style=for-the-badge&logo=c++"
 </div>
 
-<!-- About Me -->
 I'm a first year* Computer Science and Mathematics student at LSU! I'm passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**, and also **Web Applications** and **Software Engineering** as a side hobby.
 
 I've experienced working with independent AI/ML research and programming languages such as Python, C++, and Java. I'm currently looking for internship/research opportunities and other ways to get involved with hands-on projects.
