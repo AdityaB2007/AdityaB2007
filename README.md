@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aditya!👋</h1>
+#### Hi there, I'm Aditya!👋
 
 <!-- Language Stack -->
 <div align="center">
