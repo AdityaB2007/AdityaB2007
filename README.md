@@ -8,8 +8,10 @@ I've experienced working with independent AI/ML research and programming languag
 
 <!-- Language Stack -->
 <div align="center">
-  <img src="https://img.shields.io/badge/python-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="
+  <img src="https://img.shields.io/badge/python-%23F7DF1E?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/java-%233178C6?style=for-the-badge&logo=java&logoColor=blue">
+  <img src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%23663399?style=for-the-badge&logo=c++"
 </div>
 
 <p align="center">
