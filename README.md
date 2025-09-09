@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%23663399?style=for-the-badge&logo=c++"
 </div>
-<br>
 
 <!-- About Me -->
 I'm a first year* Computer Science and Mathematics student at LSU! I'm passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**, and also **Web Applications** and **Software Engineering** as a side hobby.
@@ -18,7 +17,7 @@ I've experienced working with independent AI/ML research and programming languag
 
 <!-- Github Stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Blaze34536&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=ADD8E6&title_color=ADD8E6">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdityaB2007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=ADD8E6&title_color=ADD8E6">
 </div>
 
 <!-- Top Language -->
