@@ -1,10 +1,12 @@
 # Hi there, I'm Aditya! 👋
 
 <!-- Language Stack -->
+<div align="center">
 <img src="https://img.shields.io/badge/python-%23F7DF1E?style=for-the-badge&logo=python&logoColor=black">
 <img src="https://img.shields.io/badge/java-%233178C6?style=for-the-badge&logo=java&logoColor=blue">
 <img src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/c++-%23663399?style=for-the-badge&logo=c++"
+</div>
 
 I'm a first year* Computer Science and Mathematics student at LSU! I'm passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**, and also **Web Applications** and **Software Engineering** as a side hobby.
 
