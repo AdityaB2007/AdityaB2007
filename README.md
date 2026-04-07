@@ -14,8 +14,8 @@ At this stage, my priority is growth — especially in programming and problem s
 ## What I'm Working On
 
 <pre>
-🌐 LSU Math Department Website
-🔍 Exploring machine learning, systems, and applied technical projects
+🐯 LSU Math Department Website
+💻 Exploring machine learning, systems, and applied technical projects
 </pre>
 
 <!--
