@@ -7,7 +7,12 @@ I’m interested in algorithms, systems, and building a strong foundation in com
 
 <h2>🛠️ Skills</h2>
 
-![Python](https://shields.io) ![C++](https://shields.io) ![Java](https://shields.io) ![HTML](https://shields.io) ![CSS](https://shields.io) ![JavaScript](https://shields.io)
+<img src="shields.io" alt="Python" />
+<img src="shields.io" alt="C++" />
+<img src="shields.io" alt="Java" />
+<img src="shields.io" alt="HTML" />
+<img src="shields.io" alt="CSS" />
+<img src="shields.io" alt="JavaScript" />
 
 <h2>What I'm Working On</h2>
 
