@@ -9,7 +9,8 @@ I’m interested in algorithms, systems, and building a strong foundation in com
 
 <div align="center">
     <img src="https://img.shields.io/badge/python-%23E34F26?style=for-the-badge&logo=python&logoColor=blue">
-    <img src="https://img.shields.io/badge/java%23E34F26?style=for-the-badge&logo=java&logoColor=red">
+    <!--<img src="https://img.shields.io/badge/java%23E34F26?style=for-the-badge&logo=java&logoColor=red">-->
+    ![Java](https://shields.io)
     <img src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css">
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
