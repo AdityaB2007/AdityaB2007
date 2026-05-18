@@ -4,7 +4,7 @@ I'm a first-year undergraduate student at Louisiana State University pursuing a 
 
 I'm interested in algorithms, systems, and building a strong foundation in computer science. I'm especially drawn to machine learning because it connects the mathematical concepts I enjoy with practical applications that can model patterns and make meaningful predictions.
 
-## 🛠️ Skills
+## 🛠️ Technical Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
