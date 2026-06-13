@@ -2,7 +2,7 @@
 
 I'm a second-year undergraduate student at Louisiana State University pursuing a double major in Mathematics and Computer Science and a minor in Physics!
 
-I'm interested in algorithms, systems, and building a strong foundation in computer science. I'm especially drawn to machine learning because it connects the mathematical concepts I enjoy with practical applications that can model patterns and make meaningful predictions.
+I'm interested in data analysis, systems, and scientific computing. I'm especially drawn to the intersections between CS and natural science fields because it connects the theoretical concepts I enjoy with practical applications that can make meaningful solutions.
 
 ## 🛠️ Technical Stack
 
