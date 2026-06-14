@@ -1,4 +1,4 @@
-# Hi, I'm Aditya 👋
+# <h1 align="center">Hi, I'm Aditya 👋</h1>
 
 I'm a second-year undergraduate student at Louisiana State University pursuing a double major in Mathematics and Computer Science and a minor in Physics!
 
