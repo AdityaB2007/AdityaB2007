@@ -18,10 +18,6 @@ I'm interested in data analysis, systems, and scientific computing. I'm especial
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
 ## 🚧 What I'm Working On
 
 ```text
